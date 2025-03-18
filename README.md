@@ -5,8 +5,8 @@
 1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md)
 2. [数组：704.二分查找](./problems/0704.二分查找.md)  &nbsp; 💚 [Mar-1 2025] Note: (x+y) // 2 or int((x+y)/2)
 3. [数组：27.移除元素](./problems/0027.移除元素.md)   &nbsp;&nbsp;&nbsp; 💚 [Mar-2 2005] Note: range(0:3) => 0,1,2
-4. [数组：977.有序数组的平方](./problems/0977.有序数组的平方.md)    &nbsp; 💔 [Mar-3 2025] Note: np.zeros -> float, [0]*len(nums)
-5. [数组：209.长度最小的子数组](./problems/0209.长度最小的子数组.md)  👩‍❤️‍👩[Mar-9 2025] Note: the initial of result should be larger than existing array len
+4. [数组：977.有序数组的平方](./problems/0977.有序数组的平方.md)    &nbsp; 💚 [Mar-3 2025] Note: np.zeros -> float, [0]*len(nums)
+5. [数组：209.长度最小的子数组](./problems/0209.长度最小的子数组.md)  💔 [Mar-9 2025] Note: the initial of result should be larger than existing array len
 6. [数组：区间和](./problems/kamacoder/0058.区间和.md)
 7. [数组：开发商购买土地](./problems/kamacoder/0044.开发商购买土地.md)
 8. [数组：59.螺旋矩阵II](./problems/0059.螺旋矩阵II.md)
